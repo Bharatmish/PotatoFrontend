@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/PotatoFrontend/static/css/main.073c9b0a.css",
-    "main.js": "/PotatoFrontend/static/js/main.71f92133.js",
+    "main.js": "/PotatoFrontend/static/js/main.d3729a01.js",
     "static/js/787.cda612ba.chunk.js": "/PotatoFrontend/static/js/787.cda612ba.chunk.js",
     "static/media/logoNavbar.png": "/PotatoFrontend/static/media/logoNavbar.7f27b06e643a63da810f.png",
     "static/media/background.jpg": "/PotatoFrontend/static/media/background.30db2f414dee6a8d3ab2.jpg",
     "index.html": "/PotatoFrontend/index.html",
     "main.073c9b0a.css.map": "/PotatoFrontend/static/css/main.073c9b0a.css.map",
-    "main.71f92133.js.map": "/PotatoFrontend/static/js/main.71f92133.js.map",
+    "main.d3729a01.js.map": "/PotatoFrontend/static/js/main.d3729a01.js.map",
     "787.cda612ba.chunk.js.map": "/PotatoFrontend/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.71f92133.js"
+    "static/js/main.d3729a01.js"
   ]
 }
