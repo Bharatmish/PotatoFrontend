@@ -200,7 +200,7 @@ const ImageUpload = () => {
       try {
         let res = await axios({
           method: "post",
-          url: "https://potatomodel.onrender.com/predict", // Your backend URL
+          url: "https://potato-disease-model-a0amgecsbkcqd0ef.eastus-01.azurewebsites.net/predict", // Your backend URL
           data: formData,
         });
   
